@@ -2,4 +2,4 @@
 TechHub website
 
 
-Current project website for an IT solution startup.
+Front end for an IT solution startup.
